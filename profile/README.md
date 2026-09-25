@@ -3,7 +3,7 @@
 ### Build. Share. Connect.
 <img width="1600" height="600" alt="image" src="https://github.com/user-attachments/assets/c258a268-6b5e-4b02-b8d0-d4f448f4cfe3" />
 
-Dev4Dev is an emerging organisation for developers who care about making useful things and making them together.
+Dev4Dev is an emerging young organisation for developers who care about making useful things and making them together.
 
 We aim to bring builders, open-source contributors, researchers, and curious people into the same room to exchange ideas, build projects, and share what we learn.
 
