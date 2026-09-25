@@ -86,22 +86,22 @@ Join us.
 
 ### [[Join the community]](#)
 
-<details> 
-  <summary> But what to start with?</summary>
+<details open> 
+  <summary> <h4> But what to start with? </h4> </summary>
+  
+<img width="1600" height="600" alt="image" src="https://github.com/user-attachments/assets/10828283-3d09-41cb-a1ba-055784d1274f" />
 
 ### Start with an idea.
 
 You don’t need a stacked résumé or years of experience.
 
-Bring an idea worth building. 
-<br>
-Develop it through Dev. 
-<br>
-When it fits, present it under the Dev name and institutional umbrella.
-<br>
-Build something serious, something silly, something unique, something yours. 
-<br>
-Put your name behind it. Give your work the context, visibility, and affiliation to break the mold.
+- Bring an idea worth building.
+- Develop it through.
+- When it fits, present it under the organisation name and institutional umbrella.
+- Most Importantly Build though the organisation, not for it.
+- Build something serious, something silly, something unique, something yours.
+- Put your name behind it.
+- Give your work the context, visibility, and affiliation to break the mold.
 
 </details>
 
