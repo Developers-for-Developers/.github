@@ -82,9 +82,28 @@ Join us.
 • Leave with something worth showing. <br>
 • Stand out. <br>
 
-
+**Something is in the making. Be a part of it. Something worth showing**
 
 ### [[Join the community]](#)
+
+<details> 
+  <summary> But what to start with?</summary>
+
+### Start with an idea.
+
+You don’t need a stacked résumé or years of experience.
+
+Bring an idea worth building. 
+<br>
+Develop it through Dev. 
+<br>
+When it fits, present it under the Dev name and institutional umbrella.
+<br>
+Build something serious, something silly, something unique, something yours. 
+<br>
+Put your name behind it. Give your work the context, visibility, and affiliation to break the mold.
+
+</details>
 
 # **What we believe**
 
@@ -102,10 +121,6 @@ If you're interested in technology and willing to participate, there's a place f
 
 [Explore our work](https://github.com/Dev4Dev) · [Join the community](#
 )
-
-
-
-
 
 
 <img width="1600" height="600" alt="image" src="https://github.com/user-attachments/assets/d7e4b19d-9382-42a8-b357-eaecb726553b" />
