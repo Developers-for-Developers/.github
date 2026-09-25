@@ -1,6 +1,10 @@
-# DEV4DEV
+  
 
-### Build. Share. Connect.
+<h2 align="center"> 
+  <u> _> DEV4DEV </u>
+  <div></div>
+  <br>
+  Build. Share. Connect. </h2>
 
 A young organization for young people who build.
 
@@ -14,8 +18,6 @@ Then, here you can:
 - Contribute to something real.
 - Get recognized for what you do.
 - Stand out and make your mark.
-
-<br><br>
 
 We’re small. We’re new. And we’re building something worth joining.
 
