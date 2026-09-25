@@ -68,21 +68,21 @@ You can contribute seriously, casually, occasionally, or just show up and see wh
 # Join Us
 <img width="1600" height="600" alt="image" src="https://github.com/user-attachments/assets/d530d6b1-95f0-43c5-9443-c78158d8e3d1" />
 <br>
-Join us.
+<b align="center">
+Join us. 
+</b>
 <br><br>
 
-No commitments. 
-<br>
-No bullshit.
-<br>
-Build something. 
-<br>
-Meet fellow builders. 
-<br>
-Earn recognition. 
-<br>
-Get something real to show for it.
-<br>
+• No commitments. <br>
+• No bullshit. <br>
+• Build things. <br>
+• Meet people like you worth knowing. <br>
+• Get recognized for your work. <br>
+• Earn badges, credentials, and real experience. <br>
+• Leave with something worth showing. <br>
+• Stand out. <br>
+
+
 
 ### [[Join the community]](#)
 
