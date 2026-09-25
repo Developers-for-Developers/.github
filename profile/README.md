@@ -1,6 +1,21 @@
 # DEV4DEV
 
 ### Build. Share. Connect.
+
+A young organization for young people who build.
+
+- Still figuring out what to make?
+- Already shipping projects?
+- Have ideas, problem's or questions?
+
+Meet people like you. Contribute to something real. Get recognized for what you do. Stand out and make your mark.
+<br><br>
+We’re small. We’re new. And we’re building something worth joining.
+
+---
+
+<br> <br> 
+# About 
 <img width="1600" height="600" alt="image" src="https://github.com/user-attachments/assets/c258a268-6b5e-4b02-b8d0-d4f448f4cfe3" />
 
 Dev4Dev is an emerging young organisation for developers who care about making useful things and making them together.
@@ -42,17 +57,25 @@ You can contribute seriously, casually, occasionally, or just show up and see wh
 ---
 
 # Join Us
-
+<img width="1600" height="600" alt="image" src="https://github.com/user-attachments/assets/d530d6b1-95f0-43c5-9443-c78158d8e3d1" />
+<br>
 Join us.
+<br><br>
 
 No commitments. 
+<br>
 No bullshit.
+<br>
 Build something. 
+<br>
 Meet fellow builders. 
+<br>
 Earn recognition. 
+<br>
 Get something real to show for it.
+<br>
 
-### [Join the community](#)
+### [[Join the community]](#)
 
 # **What we believe**
 
@@ -68,9 +91,10 @@ Get something real to show for it.
 
 If you're interested in technology and willing to participate, there's a place for you here.
 
-[Explore our work](https://github.com/Dev4Dev) · [Join the community](#)
+[Explore our work](https://github.com/Dev4Dev) · [Join the community](#
+)
 
-<img width="1600" height="600" alt="image" src="https://github.com/user-attachments/assets/d530d6b1-95f0-43c5-9443-c78158d8e3d1" />
+
 
 
 
