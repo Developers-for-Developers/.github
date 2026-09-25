@@ -8,8 +8,15 @@ A young organization for young people who build.
 - Already shipping projects?
 - Have ideas, problem's or questions?
 
-Meet people like you. Contribute to something real. Get recognized for what you do. Stand out and make your mark.
+Then, here you can:
+
+- Meet people like you.
+- Contribute to something real.
+- Get recognized for what you do.
+- Stand out and make your mark.
+
 <br><br>
+
 We’re small. We’re new. And we’re building something worth joining.
 
 ---
